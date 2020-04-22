@@ -3,9 +3,9 @@
 ### This Notebook showcase 4 techniques which are uses for the above stated task
 #### Memory based techniques
 
-##### USER-USER COLLABORATIVE FILTERING
-##### ITEM-ITEM COLLABORATIVE FILTERING
-##### CONTENT BASED FILTERING
+###### USER-USER COLLABORATIVE FILTERING
+###### ITEM-ITEM COLLABORATIVE FILTERING
+###### CONTENT BASED FILTERING
 
 #### Model based technique
-##### Matrix Factorization
+###### Matrix Factorization
