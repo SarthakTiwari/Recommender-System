@@ -10,4 +10,4 @@
 #### Model based technique
 ###### Matrix Factorization
 
-##### Dataset Used :- **Movie lens 100K**
+##### Dataset Used :- **Movielens 100K**
